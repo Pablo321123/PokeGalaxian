@@ -1,0 +1,32 @@
+﻿  GalaxianP4.cpp
+c:\users\computador\workfolder\cefet\cg\galaxian_secondo\galaxian_p4_git\galaxianp4\headers\world.hpp(95): warning C4305: 'argumento': truncamento de 'double' para 'GLclampf'
+c:\users\computador\workfolder\cefet\cg\galaxian_secondo\galaxian_p4_git\galaxianp4\headers\world.hpp(108): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\computador\workfolder\cefet\cg\galaxian_secondo\galaxian_p4_git\galaxianp4\headers\world.hpp(110): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\computador\workfolder\cefet\cg\galaxian_secondo\galaxian_p4_git\galaxianp4\headers\world.hpp(113): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\computador\workfolder\cefet\cg\galaxian_secondo\galaxian_p4_git\galaxianp4\headers\world.hpp(112): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\computador\workfolder\cefet\cg\galaxian_secondo\galaxian_p4_git\galaxianp4\headers\world.hpp(115): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\computador\workfolder\cefet\cg\galaxian_secondo\galaxian_p4_git\galaxianp4\headers\world.hpp(127): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\computador\workfolder\cefet\cg\galaxian_secondo\galaxian_p4_git\galaxianp4\headers\world.hpp(132): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+c:\users\computador\workfolder\cefet\cg\galaxian_secondo\galaxian_p4_git\galaxianp4\headers\bullet.hpp(125): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+c:\users\computador\workfolder\cefet\cg\galaxian_secondo\galaxian_p4_git\galaxianp4\headers\player.hpp(56): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\computador\workfolder\cefet\cg\galaxian_secondo\galaxian_p4_git\galaxianp4\headers\tela.hpp(74): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+c:\users\computador\workfolder\cefet\cg\galaxian_secondo\galaxian_p4_git\galaxianp4\headers\tela.hpp(204): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+c:\users\computador\workfolder\cefet\cg\galaxian_secondo\galaxian_p4_git\galaxianp4\headers\tela.hpp(215): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+c:\users\computador\workfolder\cefet\cg\galaxian_secondo\galaxian_p4_git\galaxianp4\headers\tela.hpp(255): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+c:\users\computador\workfolder\cefet\cg\galaxian_secondo\galaxian_p4_git\galaxianp4\headers\tela.hpp(265): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+c:\users\computador\workfolder\cefet\cg\galaxian_secondo\galaxian_p4_git\galaxianp4\src\galaxianp4.cpp(31): warning C4305: 'argumento': truncamento de 'double' para 'GLclampf'
+c:\users\computador\workfolder\cefet\cg\galaxian_secondo\galaxian_p4_git\galaxianp4\src\galaxianp4.cpp(167): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\computador\workfolder\cefet\cg\galaxian_secondo\galaxian_p4_git\galaxianp4\src\galaxianp4.cpp(259): warning C4305: 'argumento': truncamento de 'double' para 'GLclampf'
+c:\users\computador\workfolder\cefet\cg\galaxian_secondo\galaxian_p4_git\galaxianp4\src\galaxianp4.cpp(318): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+c:\users\computador\workfolder\cefet\cg\galaxian_secondo\galaxian_p4_git\galaxianp4\src\galaxianp4.cpp(359): warning C4244: 'argumento': conversão de 'float' para 'GLsizei', possível perda de dados
+c:\users\computador\workfolder\cefet\cg\galaxian_secondo\galaxian_p4_git\galaxianp4\src\galaxianp4.cpp(359): warning C4244: 'argumento': conversão de 'float' para 'GLint', possível perda de dados
+c:\users\computador\workfolder\cefet\cg\galaxian_secondo\galaxian_p4_git\galaxianp4\src\galaxianp4.cpp(366): warning C4244: 'argumento': conversão de 'float' para 'GLsizei', possível perda de dados
+c:\users\computador\workfolder\cefet\cg\galaxian_secondo\galaxian_p4_git\galaxianp4\src\galaxianp4.cpp(441): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+soil2-debug.lib(SOIL2.obj) : warning LNK4075: ignorando '/EDITANDCONTINUE' devido a especificação '/OPT:ICF'
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
+  Gerando código
+  0 of 392 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  GalaxianP4.vcxproj -> C:\Users\Computador\workfolder\CEFET\CG\Galaxian_Secondo\Galaxian_P4_GIT\x64\Release\GalaxianP4.exe

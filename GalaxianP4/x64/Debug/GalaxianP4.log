@@ -1,0 +1,30 @@
+﻿  GalaxianP4.cpp
+E:\OpenGl\Projetos\Galaxian_P4_GIT\GalaxianP4\headers\world.hpp(95,53): warning C4305: 'argumento': truncamento de 'double' para 'GLclampf'
+E:\OpenGl\Projetos\Galaxian_P4_GIT\GalaxianP4\headers\world.hpp(108,53): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+E:\OpenGl\Projetos\Galaxian_P4_GIT\GalaxianP4\headers\world.hpp(110,116): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+E:\OpenGl\Projetos\Galaxian_P4_GIT\GalaxianP4\headers\world.hpp(110,73): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+E:\OpenGl\Projetos\Galaxian_P4_GIT\GalaxianP4\headers\world.hpp(113,64): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+E:\OpenGl\Projetos\Galaxian_P4_GIT\GalaxianP4\headers\world.hpp(112,73): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+E:\OpenGl\Projetos\Galaxian_P4_GIT\GalaxianP4\headers\world.hpp(115,80): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+E:\OpenGl\Projetos\Galaxian_P4_GIT\GalaxianP4\headers\world.hpp(127,119): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+E:\OpenGl\Projetos\Galaxian_P4_GIT\GalaxianP4\headers\world.hpp(127,44): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+E:\OpenGl\Projetos\Galaxian_P4_GIT\GalaxianP4\headers\world.hpp(132,23): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+E:\OpenGl\Projetos\Galaxian_P4_GIT\GalaxianP4\headers\bullet.hpp(125,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+E:\OpenGl\Projetos\Galaxian_P4_GIT\GalaxianP4\headers\player.hpp(56,55): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+E:\OpenGl\Projetos\Galaxian_P4_GIT\GalaxianP4\headers\tela.hpp(74,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+E:\OpenGl\Projetos\Galaxian_P4_GIT\GalaxianP4\headers\tela.hpp(204,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+E:\OpenGl\Projetos\Galaxian_P4_GIT\GalaxianP4\headers\tela.hpp(215,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+E:\OpenGl\Projetos\Galaxian_P4_GIT\GalaxianP4\headers\tela.hpp(255,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+E:\OpenGl\Projetos\Galaxian_P4_GIT\GalaxianP4\headers\tela.hpp(265,1): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+E:\OpenGl\Projetos\Galaxian_P4_GIT\GalaxianP4\src\GalaxianP4.cpp(31,52): warning C4305: 'argumento': truncamento de 'double' para 'GLclampf'
+E:\OpenGl\Projetos\Galaxian_P4_GIT\GalaxianP4\src\GalaxianP4.cpp(169,41): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+E:\OpenGl\Projetos\Galaxian_P4_GIT\GalaxianP4\src\GalaxianP4.cpp(261,55): warning C4305: 'argumento': truncamento de 'double' para 'GLclampf'
+E:\OpenGl\Projetos\Galaxian_P4_GIT\GalaxianP4\src\GalaxianP4.cpp(321,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+E:\OpenGl\Projetos\Galaxian_P4_GIT\GalaxianP4\src\GalaxianP4.cpp(363,35): warning C4244: 'argumento': conversão de 'float' para 'GLsizei', possível perda de dados
+E:\OpenGl\Projetos\Galaxian_P4_GIT\GalaxianP4\src\GalaxianP4.cpp(363,17): warning C4244: 'argumento': conversão de 'float' para 'GLint', possível perda de dados
+E:\OpenGl\Projetos\Galaxian_P4_GIT\GalaxianP4\src\GalaxianP4.cpp(370,30): warning C4244: 'argumento': conversão de 'float' para 'GLsizei', possível perda de dados
+E:\OpenGl\Projetos\Galaxian_P4_GIT\GalaxianP4\src\GalaxianP4.cpp(457,36): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+E:\OpenGl\Projetos\Galaxian_P4_GIT\GalaxianP4\src\GalaxianP4.cpp(113): warning C4715: 'numeroAleatorio': nem todos os caminhos de controle retornam um valor
+E:\OpenGl\Projetos\Galaxian_P4_GIT\GalaxianP4\src\GalaxianP4.cpp(96): warning C4172: retornando o endereço da variável local ou temporário: valor
+E:\OpenGl\Projetos\Galaxian_P4_GIT\GalaxianP4\src\GalaxianP4.cpp(106): warning C4172: retornando o endereço da variável local ou temporário: valores
+  GalaxianP4.vcxproj -> E:\OpenGl\Projetos\Galaxian_P4_GIT\x64\Debug\GalaxianP4.exe
